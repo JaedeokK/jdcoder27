@@ -5,7 +5,7 @@
 </div>
 
 # Kim Jaedeok
-효율적인 개발자를 목표로 하고 있습니다.
+I am a front-end engineer aims to become an efficient developer.
 
 ## How it all started
 어릴 적부터 만드는 것을 좋아했던 저는 취미로 시작한 요리에 흥미를 느껴 주방에서 일하고 있었습니다.\
